@@ -25,7 +25,7 @@ A simple Telegram bot deployed on **Cloudflare Workers** that automatically **de
    - `CHANNEL_LINK`
 4. Set webhook:
 
-```https://your-worker-domain/setup-webhook```
+'''https://your-worker-domain/setup-webhook'''
 
 ## Commands
 - `/start` – Start the bot
